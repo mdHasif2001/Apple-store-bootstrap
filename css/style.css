@@ -1,6 +1,14 @@
+.nav-bg{
+    background-color: #333333;
+}
+
+.fa-apple{
+    color: white;
+}
 .slider-img{
     width: 400px;
     height: 400px;
+    padding-left: 6px;
 }
 .btn-color{
     background-color: #0071e3;
